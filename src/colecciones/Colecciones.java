@@ -75,7 +75,7 @@ public class Colecciones {
             Integer key = it.next();
             System.out.println("Clave: " + key + " --------> Valor: " + linkedHashMap.get(key));
         }
-        System.out.println("LA PUTA MADRE METI GIT");
+        System.out.println("LA PUTA MADRE METI GIT PERO AHORA DESDE VISUAL");
         System.out.println("\n Metodos para mostrar de Map \n");
         System.out.println("Mostramos el numero de elementos que tiene el TreeMap: treeMap.size() = " + treeMap.size());
         System.out.println("Vemos si el TreeMap esta vacio: treeMap.isEmpty() = " + treeMap.isEmpty());
